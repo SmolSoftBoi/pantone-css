@@ -6,5 +6,6 @@
         "url": "https://github.com/EpicKris/pantone-css",
         "type": "git"
     },
-    "bugs": "https://github.com/EpicKris/pantone-css/issues"
+    "bugs": "https://github.com/EpicKris/pantone-css/issues",
+    "version": "0.0.2"
 }
