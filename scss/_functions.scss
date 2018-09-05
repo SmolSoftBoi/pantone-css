@@ -1,0 +1,3 @@
+@function pantone-cp($key) {
+  @return map-get($pantone-cp, $key);
+}

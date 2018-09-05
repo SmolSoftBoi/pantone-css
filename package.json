@@ -1,0 +1,6 @@
+{
+    "name": "pantone-css",
+    "description": "Pantone CSS.",
+    "main": "pantone.scss",
+    "author": "Kristian Matthews"
+}
