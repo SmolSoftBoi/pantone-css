@@ -1,6 +1,10 @@
 {
     "name": "pantone-css",
     "description": "Pantone CSS.",
-    "main": "pantone.scss",
-    "author": "Kristian Matthews"
+    "author": "Kristian Matthews <kristian.matthews@me.com> (epickris.com)",
+    "repository": {
+        "url": "https://github.com/EpicKris/pantone-css",
+        "type": "git"
+    },
+    "bugs": "https://github.com/EpicKris/pantone-css/issues"
 }
