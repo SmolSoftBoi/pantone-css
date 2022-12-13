@@ -7,6 +7,6 @@
         "type": "git"
     },
     "bugs": "https://github.com/EpicKris/pantone-css/issues",
-    "version": "0.2.7",
+    "version": "0.2.8",
     "style": "scss/pantone.scss"
 }
