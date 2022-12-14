@@ -1,3 +1,7 @@
 @function pantone-cp($key) {
   @return map-get($pantone-cp, $key);
 }
+
+@function pantone-tpg($key) {
+  @return map-get($pantone-tpg, $key);
+}
