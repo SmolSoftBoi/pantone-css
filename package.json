@@ -1,12 +1,12 @@
 {
     "name": "pantone-css",
     "description": "Pantone CSS.",
-    "author": "Kristian Matthews <kristian.matthews@me.com> (epickris.com)",
+    "author": "Kristian Matthews-Kennington <kristian@matthews-kennington.com> (matthews-kennington.com)",
     "repository": {
-        "url": "https://github.com/EpicKris/pantone-css",
+        "url": "https://github.com/SmolSoftBoi/pantone-css",
         "type": "git"
     },
-    "bugs": "https://github.com/EpicKris/pantone-css/issues",
-    "version": "0.2.9",
+    "bugs": "https://github.com/SmolSoftBoi/pantone-css/issues",
+    "version": "0.3.0",
     "style": "scss/pantone.scss"
 }
