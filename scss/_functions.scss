@@ -6,6 +6,10 @@
   @return map-get($pantone-cp, $key);
 }
 
+@function pantone-p-c($key) {
+  @return map-get($pantone-p-c, $key);
+}
+
 @function pantone-tpg($key) {
   @return map-get($pantone-tpg, $key);
 }
