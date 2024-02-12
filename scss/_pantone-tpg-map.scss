@@ -1,6 +1,16 @@
 @import "pantone-tpg";
 
 $pantone-tpg: (
+  "banana-crepe": $pantone-13-0815-tpg,
+  "heather": $pantone-14-4110-tpg,
+  "mint": $pantone-16-5938-tpg,
+  "pale-dogwood": $pantone-13-1404-tpg,
+  "skyway": $pantone-14-4112-tpg,
   "viva-magenta": $pantone-viva-magenta-tpg,
-  "18-1750":      $pantone-18-1750-tpg
+  "13-0815": $pantone-13-0815-tpg,
+  "13-1404": $pantone-13-1404-tpg,
+  "14-4110": $pantone-14-4110-tpg,
+  "14-4112": $pantone-14-4112-tpg,
+  "16-5938": $pantone-16-5938-tpg,
+  "18-1750": $pantone-18-1750-tpg,
 );

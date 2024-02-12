@@ -1,8 +1,18 @@
 {
-    "id": "TPG",
-    "guide": "FHI Paper TPG",
-    "colors": {
-        "Viva Magenta": "#BE3455",
-        "18-1750":      "#BE3455"
-    }
+  "id": "TPG",
+  "guide": "FHI Paper TPG",
+  "colors": {
+    "Banana Crepe": "#E6D3A6",
+    "Heather": "#B6C0D6",
+    "Mint": "#00A779",
+    "Pale Dogwood": "#F0CFC3",
+    "Skyway": "#AABDD4",
+    "Viva Magenta": "#BE3455",
+    "13-0815": "#E6D3A6",
+    "13-1404": "#F0CFC3",
+    "14-4110": "#B6C0D6",
+    "14-4112": "#AABDD4",
+    "16-5938": "#00A779",
+    "18-1750": "#BE3455"
+  }
 }
