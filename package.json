@@ -1,12 +1,23 @@
 {
-    "name": "pantone-css",
-    "description": "Pantone CSS.",
-    "author": "Kristian Matthews-Kennington <kristian@matthews-kennington.com> (matthews-kennington.com)",
-    "repository": {
-        "url": "https://github.com/SmolSoftBoi/pantone-css",
-        "type": "git"
-    },
-    "bugs": "https://github.com/SmolSoftBoi/pantone-css/issues",
-    "version": "0.4.0",
-    "style": "scss/pantone.scss"
+  "name": "pantone-css",
+  "description": "Pantone CSS.",
+  "author": "Kristian Matthews-Kennington <kristian@matthews-kennington.com> (matthews-kennington.com)",
+  "repository": {
+    "url": "https://github.com/SmolSoftBoi/pantone-css",
+    "type": "git"
+  },
+  "bugs": "https://github.com/SmolSoftBoi/pantone-css/issues",
+  "version": "0.4.0",
+  "style": "scss/pantone.scss",
+  "devDependencies": {
+    "husky": "^9.0.10",
+    "lint-staged": "^15.2.2",
+    "prettier": "3.2.5"
+  },
+  "scripts": {
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "**/*": "prettier --write --ignore-unknown"
+  }
 }
