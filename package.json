@@ -7,7 +7,7 @@
     "type": "git"
   },
   "bugs": "https://github.com/SmolSoftBoi/pantone-css/issues",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "style": "scss/pantone.scss",
   "devDependencies": {
     "husky": "^9.0.10",
